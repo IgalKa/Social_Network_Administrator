@@ -10,7 +10,7 @@ The program was written in C++ with emphasis on Object-Oriented Programming prin
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/IgalKa/Social_Network_Administrator
 ```
 
 Go to the project directory, run the main using an IDE or CMD.
